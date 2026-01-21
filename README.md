@@ -1,6 +1,6 @@
 # 🏠 PG Life
 
-A simple website for students to find PG accommodations in different cities.
+A simple Frontend website for students to find PG accommodations in different cities.
 
 ## 🔧 Tech Used
 - HTML, CSS, JavaScript
